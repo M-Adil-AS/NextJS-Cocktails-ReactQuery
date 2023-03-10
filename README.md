@@ -1,1 +1,1 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+Deployment Link: https://next-js-cocktails-react-query.vercel.app/
